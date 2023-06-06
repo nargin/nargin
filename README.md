@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github.com/nargin/nargin/blob/main/big-snoopa.gif)
 
 <!--
 **nargin/nargin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
