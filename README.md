@@ -1,4 +1,3 @@
-![](https://badge42.vercel.app/api/v2/clgw8ua3p008308l583tsmx3s/stats?cursusId=21&coalitionId=316)<br />
 ![](https://github.com/nargin/nargin/blob/main/big-snoopa.gif)
 
 <!--
