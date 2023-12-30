@@ -3,7 +3,7 @@
 
 - 👋 Hi, My name is MAURELL Robin
 - 👀 I'm good and like learning 
-- 🌱 I'm currently learning reverse engineering, and ASM
+- 🌱 I'm currently mainly learning Rust 
 - 💞️ My programming skills: C, C++
 - 📫 Finished 42 Common Core
 - 👋 Have a good day, no clean code here sorry!
