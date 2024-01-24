@@ -5,4 +5,8 @@
 - 👀 I like learning new things
 - 🌱 For now it's Rust
 - 📫 Finished 42 Common Core
-
+<br />
+<details>
+  <summary>Borzoi: Big Snoopa</summary>
+  <img src=https://github.com/nargin/nargin/blob/main/big-snoopa.gif>
+</details>
