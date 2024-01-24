@@ -1,9 +1,8 @@
 # About Me
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=nargin" width=400>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargin&layout=compact" height=200 width=400>
 
-- 👋 Hi, My name is MAURELL Robin
-- 👀 I'm good and like learning 
-- 🌱 I'm currently mainly learning Rust 
-- 💞️ My programming skills: C, C++
+- 👋 Hi, My name is Robin, I'm French
+- 👀 I like learning new things
+- 🌱 For now it's Rust
 - 📫 Finished 42 Common Core
-- 👋 Have a good day, no clean code here sorry!
+
