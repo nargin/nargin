@@ -3,7 +3,7 @@
 
 - 👋 Hi, My name is Robin, I'm French
 - 👀 I like learning new things
-- 🌱 For now it's Rust
+- 🌱 Here plant, everything !
 - 📫 Finished 42 Common Core
 <br />
 <details>
